@@ -1,0 +1,1 @@
+head -c 8 /dev/urandom > test_8.txt
